@@ -103,7 +103,7 @@ My work sits at the intersection of **GenAI, data engineering, and platform engi
 | Project | What it is | Highlights |
 |---|---|---|
 | 🔌 [**MCP Server Starter**](https://github.com/Jaysharma2/mcp-data-workflow-server) | Minimal MCP server over Streamable HTTP with example tools | Tool schemas, auth pattern, Docker setup |
-| ⚡ **LLM Inference Benchmarks** *(coming soon)* | Ollama vs. vLLM across GPUs and quantization (AWQ/FP8/GGUF) | Reproducible scripts, latency/throughput results, charts |
+| ⚡ [**LLM Inference Benchmarks**](https://github.com/Jaysharma2/llm-inference-bench) | Ollama vs. vLLM across GPUs and quantization (AWQ/FP8/GGUF) | Reproducible scripts, latency/throughput results, charts |
 | ✍️ [**Handwritten Word Recognition**](https://github.com/Jaysharma2/Handwritten_Word_Recognition) | Indic handwriting recognition for 10 Indian languages (CRNN-VGG16-BN) | 🏅 **6th place**, IIIT-H IHTR @ ICDAR 2023; 90.42% CRR, 51.5% WRR |
 | 🎙️ [**Multi-Modal Emotion Recognition**](https://github.com/Jaysharma2/Multi-Modal_Multi-Focus_Emotion_Recognition) | Speech + text emotion recognition on IEMOCAP | Combined classifier 75.99% → **78.31%** with two-level attention (vs. 60.89% acoustic-only, 64.83% lexical-only) |
 | 📚 [**RAG-based Document Querying**](https://github.com/Jaysharma2/RAG_based_Document_Querying) | RAG system with LangChain and an open-source LLM | Chunking, local embeddings, dynamic DB updates |
